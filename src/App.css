@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "yaldevi";
+  src: url("./fonts/yaldevi.ttf");
+}
+
+.main-img{
+  width: 100%;
+  text-align: center;
+  margin: 35px 0px;
+}
+
+.menu-bar{
+  text-align: center;
+}
+.menu-bar a{
+  font-family: "yaldevi";
+  margin: 0px 30px;
+  font-size: 36px;
+}
+.content-people{
+  text-align: center;
+  margin-top: 50px;
+}
