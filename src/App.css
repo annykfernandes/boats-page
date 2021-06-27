@@ -12,7 +12,7 @@
 .menu-bar{
   text-align: center;
 }
-.menu-bar a{
+.menu-bar span{
   font-family: "yaldevi";
   margin: 0px 30px;
   font-size: 36px;

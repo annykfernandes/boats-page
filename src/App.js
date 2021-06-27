@@ -6,17 +6,17 @@ function App() {
   return (
     <div className="App">
       <div className="main-img">
-        <img src={logo}></img>
+        <img src={logo} alt="logo boats oficial"></img>
       </div>
       <div className="menu-bar">
-        <a>home</a>
-        <a>discografia</a>
-        <a>videografia</a>
-        <a>clipping</a>
-        <a>contato</a>
+        <span>home</span>
+        <span>discografia</span>
+        <span>videografia</span>
+        <span>clipping</span>
+        <span>contato</span>
       </div>
      <div className="content-people">
-       <img src={people}></img>
+       <img src={people} alt="foto membros banda boats"></img>
      </div>
     </div>
   );
